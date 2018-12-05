@@ -1,6 +1,7 @@
 ## Codewars Java katas
 | Level | Description | Solution |
 | ----- | ----------- | -------- |
+| 4 kyu | [Strings Mix](https://www.codewars.com/kata/5629db57620258aa9d000014) | [Mixing](src/main/java/kyu4/Mixing.java |
 | 4 kyu | [parseInt() reloaded](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5) | [Parser](src/main/java/kyu4/Parser.java |
 | 4 kyu | [Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd) | [StripComments](src/main/java/kyu4/StripComments.java |
 | 6 kyu | [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00) | [DigitalRoot](src/main/java/kyu6/DigitalRoot.java |
