@@ -4,6 +4,7 @@
 |  4 kyu  | [Strings Mix](https://www.codewars.com/kata/5629db57620258aa9d000014) | [Mixing](src/main/java/kyu4/Mixing.java) |
 |  4 kyu  | [parseInt() reloaded](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5) | [Parser](src/main/java/kyu4/Parser.java) |
 |  4 kyu  | [Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd) | [StripComments](src/main/java/kyu4/StripComments.java) |
+|  5 kyu  | [Phone Directory](https://www.codewars.com/kata/phone-directory) | [PhoneDirectory](src/main/java/kyu5/PhoneDirectory.java) |
 |  5 kyu  | [PaginationHelper](https://www.codewars.com/kata/515bb423de843ea99400000a) | [PaginationHelper](src/main/java/kyu5/PaginationHelper.java) |
 |  6 kyu  | [Shop Inventory Manager](https://www.codewars.com/kata/55d1d06def244b18c100007c) | [ShopInventoryManager](src/main/java/kyu6/ShopInventoryManager.java) |
 |  6 kyu  | [Fractions class](https://www.codewars.com/kata/572bbd7c72a38bd878000a73) | [Fraction](src/main/java/kyu6/Fraction.java) |
