@@ -6,6 +6,7 @@
 | 4 kyu | [Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd) | [StripComments](src/main/java/kyu4/StripComments.java |
 | 6 kyu | [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) | [PhoneNumber](src/main/java/kyu6/PhoneNumber.java |
 | 6 kyu | [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00) | [DigitalRoot](src/main/java/kyu6/DigitalRoot.java |
+| 7 kyu | [Interactive Dictionary](https://www.codewars.com/kata/57a93f93bb9944516d0000c1) | [Dictionary](src/main/java/kyu7/Dictionary.java |
 | 7 kyu | [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3) | [Vowels](src/main/java/kyu7/Vowels.java |
 | 7 kyu | [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028) | [MiddleCharacter](src/main/java/kyu7/MiddleCharacter.java |
 | 7 kyu | [Sum of odd numbers](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064) | [RowSumOddNumbers](src/main/java/kyu7/RowSumOddNumbers.java |
