@@ -1,7 +1,8 @@
 ## Codewars Java katas
 | Level | Description | Solution |
 | ----- | ----------- | -------- |
-| 4 kyu | [Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd) | [StripComments](src/main/java/kyu6/StripComments.java |
+| 4 kyu | [parseInt() reloaded](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5) | [Parser](src/main/java/kyu4/Parser.java |
+| 4 kyu | [Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd) | [StripComments](src/main/java/kyu4/StripComments.java |
 | 6 kyu | [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00) | [DigitalRoot](src/main/java/kyu6/DigitalRoot.java |
 | 7 kyu | [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3) | [Vowels](src/main/java/kyu7/Vowels.java |
 | 7 kyu | [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028) | [MiddleCharacter](src/main/java/kyu7/MiddleCharacter.java |
