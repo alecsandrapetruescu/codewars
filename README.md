@@ -7,6 +7,7 @@
 | 6 kyu | [Fractions class](https://www.codewars.com/kata/572bbd7c72a38bd878000a73) | [Fraction](src/main/java/kyu6/Fraction.java |
 | 6 kyu | [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) | [PhoneNumber](src/main/java/kyu6/PhoneNumber.java |
 | 6 kyu | [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00) | [DigitalRoot](src/main/java/kyu6/DigitalRoot.java |
+| 7 kyu | [Two fighters, one winner.](https://www.codewars.com/kata/577bd8d4ae2807c64b00045b) | [TwoFighterOneWinner](src/main/java/kyu7/TwoFighterOneWinner.java |
 | 7 kyu | [Mystery Colors](https://www.codewars.com/kata/59ffd0058ba91470bf0000bf) | [MysteryColorAnalyzerImpl](src/main/java/kyu7/MysteryColorAnalyzerImpl.java |
 | 7 kyu | [Interactive Dictionary](https://www.codewars.com/kata/57a93f93bb9944516d0000c1) | [Dictionary](src/main/java/kyu7/Dictionary.java |
 | 7 kyu | [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3) | [Vowels](src/main/java/kyu7/Vowels.java |
