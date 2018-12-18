@@ -1,6 +1,7 @@
 ## Codewars Java katas
 |  Level  | Description | Solution |
 | ------- | ----------- | -------- |
+|  4 kyu  | [Breadcrumb Generator](https://www.codewars.com/kata/breadcrumb-generator) | [BreadcrumbGenerator](src/main/java/kyu4/BreadcrumbGenerator.java) |
 |  4 kyu  | [Sum of Intervals](https://www.codewars.com/kata/sum-of-intervals) | [Interval](src/main/java/kyu4/Interval.java) |
 |  4 kyu  | [Strings Mix](https://www.codewars.com/kata/5629db57620258aa9d000014) | [Mixing](src/main/java/kyu4/Mixing.java) |
 |  4 kyu  | [parseInt() reloaded](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5) | [Parser](src/main/java/kyu4/Parser.java) |
